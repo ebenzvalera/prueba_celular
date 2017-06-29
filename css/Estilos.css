@@ -162,6 +162,9 @@ footer .social a {
     }
 }
 @media screen and (max-width:600px){
+    .contenedor {
+        width:98%;   
+    }
     aside {
         flex-direction: column;
     }
